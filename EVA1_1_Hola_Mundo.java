@@ -15,11 +15,6 @@ public class EVA1_1_Hola_Mundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo!!");
-    }
-    
-    public static void algo() {
-        System.out.println("x");
-        
+        System.out.println("Hola mundo!!");   
     }
 }
